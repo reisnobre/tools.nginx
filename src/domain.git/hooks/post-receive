@@ -1,0 +1,2 @@
+#!/bin/sh
+git --work-tree=PATH/DOMAIN/public_html/ --git-dir=PATH/repos/DOMAIN.git checkout -f
