@@ -85,7 +85,7 @@ WORDPRESS = """
     }
 """
 
-PATH = os.getcwd()
+PATH = os.environ['HOME']
 
 
 class Deployment:
